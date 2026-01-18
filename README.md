@@ -5,6 +5,19 @@ A stunning, AI-customizable system monitoring overlay for Ubuntu 24.04+.
 
 Featuring real-time network intel, persistent detached process logic, and dynamic hardware detection for a professional cybersecurity aesthetic.
 
+
+
+🔰 One-Line Installation Command
+
+Once your script is uploaded, you can give your friends this "Pro" command to run in their terminal. It will download and start your installer automatically:
+
+
+Bash
+
+	wget -qO- https://raw.githubusercontent.com/smazumdar261-IN/Omni-System-Monitor/main/install_dashboard.sh | bash
+
+
+
 🚀 Key Features
 
 ➡️  Universal Hardware Support: Automatically detects your active network interface (Wi-Fi or Ethernet).
